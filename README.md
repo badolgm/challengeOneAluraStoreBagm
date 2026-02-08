@@ -1,7 +1,13 @@
 <div align="center">
-  <a href="https://www.aluracursos.com/">
+  <!-- Banner Generado para compatibilidad con GitHub -->
+  <a href="https://www.aluracursos.com/" target="_blank">
+    <img src="assets/banner_alura.svg" alt="Banner Alura Latam" width="800">
+  </a>
+
+  <br><br>
+
+  <a href="https://www.python.org/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="50" height="50" style="margin-right: 20px;">
-    <img src="https://www.aluracursos.com/assets/img/home/alura-logo.1647533644.svg" alt="Alura Latam" width="200">
   </a>
   
   # 📊 Alura Store: Análisis Estratégico de Ventas
@@ -21,7 +27,7 @@
 
 ---
 
-## 🖼️ Vista Previa del Análisis
+
 
 <div align="center">
   <!-- Sube tu imagen a la carpeta assets/images/ y ajusta el nombre aquí -->
@@ -41,6 +47,24 @@ Este proyecto tiene como objetivo proporcionar una recomendación basada en dato
 *   📦 **Eficiencia Logística (Tiempos y Costos de Envío)**
 
 El análisis identifica patrones ocultos y destaca la tienda con el desempeño menos favorable para la venta.
+
+## 🔍 Hallazgos Clave y Conclusiones
+
+Tras un exhaustivo análisis de datos utilizando Python (Pandas, Matplotlib, Seaborn), se han obtenido los siguientes resultados determinantes para la toma de decisiones:
+
+### 📊 Desempeño Comparativo
+
+| Métrica | 🏆 Tienda Líder (Tienda 1) | 📉 Tienda a Vender (Tienda 4) |
+| :--- | :--- | :--- |
+| **Facturación Total** | **>$1,150 Millones** (Motor financiero) | **Déficit de $112 Millones** vs Líder |
+| **Satisfacción (Reseñas)** | 3.97 ⭐ (Área de mejora) | 3.99 ⭐ (Promedio, sin ventaja competitiva) |
+| **Transacciones** | Alto volumen en Electrónicos | Baja densidad en categorías clave |
+
+### 💡 Insights Estratégicos
+
+1.  **Ineficiencia Financiera:** La **Tienda 4** presenta el desempeño económico más bajo de la cadena, sin compensarlo con una eficiencia logística superior o una fidelización de clientes destacada.
+2.  **Valor Intangible:** La **Tienda 3**, aunque no es la que más factura, posee el mayor capital de reputación con una calificación de **4.05 ⭐**, lo que la hace un activo valioso para la marca a largo plazo.
+3.  **Decisión Recomendada:** Se recomienda proceder con la **venta de la Tienda 4**. Esta acción liberará capital con el menor impacto negativo en el flujo de caja global y preservará los puntos de venta más fuertes (Tienda 1) y más queridos (Tienda 3).
 
 ---
 
