@@ -50,8 +50,26 @@ El proyecto está organizado de la siguiente manera:
 
 ```
 ├── assets/                     # Recursos estáticos (imágenes)
+├── Analysis_Alura_Store.ipynb  # Notebook principal con Análisis y Mapas Interactivos
 ├── LICENSE                     # Licencia del proyecto (MIT)
 └── README.md                   # Documentación oficial
+```
+
+---
+
+## 🚀 Cómo Ejecutar este Proyecto
+
+Este análisis está desarrollado en un Jupyter Notebook.
+
+### Opción 1: Google Colab (Recomendado)
+1. Descarga el archivo `Analysis_Alura_Store.ipynb` de este repositorio.
+2. Sube el archivo a [Google Colab](https://colab.research.google.com/).
+3. Ejecuta las celdas para reproducir el análisis y visualizar el **mapa interactivo de tiendas**.
+
+### Opción 2: Localmente
+Asegúrate de tener instalado Python y las librerías necesarias:
+```bash
+pip install pandas matplotlib seaborn folium
 ```
 
 ---
