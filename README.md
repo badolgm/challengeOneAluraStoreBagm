@@ -19,6 +19,9 @@
     <a href="https://colab.research.google.com/">
       <img src="https://img.shields.io/badge/Platform-Google%20Colab-orange" alt="Platform">
     </a>
+    <a href="https://nbviewer.org/github/badolgm/challengeOneAluraStoreBagm/blob/main/Analysis_Alura_Store.ipynb">
+      <img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg" alt="Render with nbviewer">
+    </a>
     <a href="https://www.python.org/">
       <img src="https://img.shields.io/badge/Made%20with-Python%203.8%2B-yellow" alt="Python">
     </a>
